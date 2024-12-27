@@ -1,0 +1,80 @@
+{
+    "rates": {
+        "59-126": [
+            {
+                "changer": 517,
+                "rate": "378132.8782",
+                "rankrate": "378132.8782",
+                "reserve": "72",
+                "inmin": "5000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 992,
+                "rate": "416278.928",
+                "rankrate": "416278.928",
+                "reserve": "319.997621",
+                "inmin": "1000",
+                "inmax": "400000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "533793.4135",
+                "rankrate": "533793.4135",
+                "reserve": "4419.021809",
+                "inmin": "16500",
+                "inmax": "100000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1211,
+                "rate": "375957.4697",
+                "rankrate": "375957.4697",
+                "reserve": "396.2740764",
+                "inmin": "25000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "383441.5055",
+                "rankrate": "387314.652",
+                "reserve": "2499.977482",
+                "inmin": "5000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "rates": {
+        "121-189": [
+            {
+                "changer": 184,
+                "rate": "111.4072",
+                "rankrate": "111.4072",
+                "reserve": "808352",
+                "inmin": "30000",
+                "inmax": "10000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 417,
+                "rate": "117.8602",
+                "rankrate": "119.0507071",
+                "reserve": "18737475",
+                "inmin": "20000",
+                "inmax": "100000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 622,
+                "rate": "113.7437",
+                "rankrate": "114.8926263",
+                "reserve": "9982059",
+                "inmin": "5000",
+                "inmax": "10000000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 989,
+                "rate": "109.134",
+                "rankrate": "109.134",
+                "reserve": "13000",
+                "inmin": "15168.18",
+                "inmax": "606727",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1230,
+                "rate": "110.9668",
+                "rankrate": "110.9668",
+                "reserve": "1811128.88",
+                "inmin": "30000",
+                "inmax": "150000",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

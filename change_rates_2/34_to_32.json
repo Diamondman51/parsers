@@ -1,0 +1,133 @@
+{
+    "rates": {
+        "34-32": [
+            {
+                "changer": 517,
+                "rate": "0.00254359199",
+                "rankrate": "0.002582326894",
+                "reserve": "3192106790",
+                "inmin": "15000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 772,
+                "rate": "0.002567691915",
+                "rankrate": "0.002567691915",
+                "reserve": "20333399069",
+                "inmin": "30000",
+                "inmax": "900000",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.00251796",
+                "rankrate": "0.002608287913",
+                "reserve": "2786883453",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "412609.1711",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1021,
+                "rate": "0.002911735002",
+                "rankrate": "0.002911735002",
+                "reserve": "1770015711",
+                "inmin": "2500",
+                "inmax": "150000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "0.002559189588",
+                "rankrate": "0.002559189588",
+                "reserve": "11893515525",
+                "inmin": "50000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1061,
+                "rate": "0.002559940452",
+                "rankrate": "0.002559940452",
+                "reserve": "82179930796",
+                "inmin": "52370.35",
+                "inmax": "20000000",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "0.003515762746",
+                "rankrate": "0.003515762746",
+                "reserve": "999999999999",
+                "inmin": "16500",
+                "inmax": "100000",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "0.002537571778",
+                "rankrate": "0.002563203816",
+                "reserve": "521609426119",
+                "inmin": "20000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "rates": {
+        "25-93": [
+            {
+                "changer": 466,
+                "rate": "10169491.53",
+                "rankrate": "10169491.53",
+                "reserve": "3.53413665",
+                "inmin": "25000",
+                "inmax": "100000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "10000000",
+                "rankrate": "10169491.53",
+                "reserve": "26.71245919",
+                "inmin": "21967.4864",
+                "inmax": "702960",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.00005",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1036,
+                "rate": "10068808.67",
+                "rankrate": "10275737.54",
+                "reserve": "3.60471746",
+                "inmin": "10500",
+                "inmax": "95000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.00006",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "rates": {
+        "17-126": [
+            {
+                "changer": 517,
+                "rate": "378132.8782",
+                "rankrate": "383891.2469",
+                "reserve": "72",
+                "inmin": "5000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 992,
+                "rate": "415023.5835",
+                "rankrate": "415023.5835",
+                "reserve": "319.997621",
+                "inmin": "1000",
+                "inmax": "400000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "532926.3462",
+                "rankrate": "532926.3462",
+                "reserve": "4419.021809",
+                "inmin": "16500",
+                "inmax": "100000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1211,
+                "rate": "375969.0947",
+                "rankrate": "375969.0947",
+                "reserve": "396.2740764",
+                "inmin": "25000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "382525.587",
+                "rankrate": "382525.587",
+                "reserve": "2499.977482",
+                "inmin": "5000",
+                "inmax": "500000",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "rates": {
+        "109-88": [
+            {
+                "changer": 125,
+                "rate": "1.020408163",
+                "rankrate": "1.020408163",
+                "reserve": "3321.9054",
+                "inmin": "20",
+                "inmax": "1143.0615",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 227,
+                "rate": "1.1",
+                "rankrate": "1.1",
+                "reserve": "2414.69",
+                "inmin": "5",
+                "inmax": "2000",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 273,
+                "rate": "1.0203",
+                "rankrate": "1.030606061",
+                "reserve": "351.3804",
+                "inmin": "0.5102",
+                "inmax": "358.5134",
+                "marks": [],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

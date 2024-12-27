@@ -1,0 +1,81 @@
+{
+    "rates": {
+        "121-310": [
+            {
+                "changer": 184,
+                "rate": "1.1765",
+                "rankrate": "1.1765",
+                "reserve": "1107507",
+                "inmin": "10000",
+                "inmax": "200000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 417,
+                "rate": "1.0526",
+                "rankrate": "1.063232323",
+                "reserve": "5552891",
+                "inmin": "5263.1579",
+                "inmax": "10002721356",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 622,
+                "rate": "1.1111",
+                "rankrate": "1.122323232",
+                "reserve": "49984358",
+                "inmin": "3000",
+                "inmax": "10000000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 633,
+                "rate": "1",
+                "rankrate": "1",
+                "reserve": "9172943",
+                "inmin": "1200",
+                "inmax": "10000000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1073,
+                "rate": "1.0204",
+                "rankrate": "1.030707071",
+                "reserve": "10500000",
+                "inmin": "1000",
+                "inmax": "200000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

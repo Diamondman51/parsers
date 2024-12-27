@@ -1,0 +1,74 @@
+{
+    "rates": {
+        "174-315": [
+            {
+                "changer": 989,
+                "rate": "1.085",
+                "rankrate": "1.085",
+                "reserve": "5004212.498",
+                "inmin": "252.5",
+                "inmax": "8080",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "1.08263",
+                "rankrate": "1.08263",
+                "reserve": "20012768.62",
+                "inmin": "500",
+                "inmax": "21666423.69",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1138,
+                "rate": "1.063833",
+                "rankrate": "1.063833",
+                "reserve": "130001",
+                "inmin": "1001",
+                "inmax": "138299.3538",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1248,
+                "rate": "1.059322034",
+                "rankrate": "1.059322034",
+                "reserve": "100000",
+                "inmin": "500",
+                "inmax": "20000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1340,
+                "rate": "1.0274323",
+                "rankrate": "1.030963116",
+                "reserve": "100000",
+                "inmin": "1000",
+                "inmax": "1000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

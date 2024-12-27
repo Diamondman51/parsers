@@ -1,0 +1,77 @@
+{
+    "rates": {
+        "162-256": [
+            {
+                "changer": 417,
+                "rate": "0.01560128889",
+                "rankrate": "0.01560128889",
+                "reserve": "50000000",
+                "inmin": "4.0677",
+                "inmax": "1357354.875",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 612,
+                "rate": "0.01414987492",
+                "rankrate": "0.01414987492",
+                "reserve": "56134.8",
+                "inmin": "6.76672503",
+                "inmax": "78.78297949",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "0.01493740425",
+                "rankrate": "0.01493740425",
+                "reserve": "964365",
+                "inmin": "4.073361",
+                "inmax": "1357786.988",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "0.01485170651",
+                "rankrate": "0.01485170651",
+                "reserve": "12448408",
+                "inmin": "6.78748568",
+                "inmax": "13574.97136",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1273,
+                "rate": "0.01484265236",
+                "rankrate": "0.01531685533",
+                "reserve": "13918.09847",
+                "inmin": "2.397430259",
+                "inmax": "197.9675433",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "0.00262012",
+                        "type": "absolute"
+                    },
+                    "tofee": {
+                        "value": "8.16687488",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

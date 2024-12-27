@@ -1,0 +1,72 @@
+{
+    "rates": {
+        "120-190": [
+            {
+                "changer": 269,
+                "rate": "1.049097776",
+                "rankrate": "1.05433331",
+                "reserve": "199310.7116",
+                "inmin": "44.0621",
+                "inmax": "5246.9786",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1.42",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 337,
+                "rate": "0.9967372603",
+                "rankrate": "1.006805313",
+                "reserve": "1376499.937",
+                "inmin": "797.390142",
+                "inmax": "83827.63216",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 362,
+                "rate": "1.05091433",
+                "rankrate": "1.055722048",
+                "reserve": "19958.95",
+                "inmin": "14.34",
+                "inmax": "10510.5",
+                "marks": [],
+                "extra": {
+                    "tofee": {
+                        "value": "1.3",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 898,
+                "rate": "0.9967352833",
+                "rankrate": "1.006803316",
+                "reserve": "1120201.425",
+                "inmin": "797.388552",
+                "inmax": "438621.5145",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

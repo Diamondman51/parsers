@@ -1,0 +1,78 @@
+{
+    "rates": {
+        "22-198": [
+            {
+                "changer": 619,
+                "rate": "327.5628475",
+                "rankrate": "329.2886511",
+                "reserve": "1000",
+                "inmin": "5000",
+                "inmax": "30000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.16",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 989,
+                "rate": "323.1977288",
+                "rankrate": "323.1977288",
+                "reserve": "61259.86571",
+                "inmin": "10000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1141,
+                "rate": "322.7188615",
+                "rankrate": "322.7188615",
+                "reserve": "254452.9262",
+                "inmin": "50000",
+                "inmax": "9120000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1223,
+                "rate": "318.6650493",
+                "rankrate": "318.6650493",
+                "reserve": "6784.584929",
+                "inmin": "5000",
+                "inmax": "100000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1340,
+                "rate": "321.3088205",
+                "rankrate": "322.969186",
+                "reserve": "9987626.939",
+                "inmin": "5000",
+                "inmax": "5000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.16",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

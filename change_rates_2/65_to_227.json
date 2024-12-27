@@ -1,0 +1,77 @@
+{
+    "rates": {
+        "65-227": [
+            {
+                "changer": 778,
+                "rate": "0.5275383006",
+                "rankrate": "0.5275383006",
+                "reserve": "182925.1068",
+                "inmin": "48.01",
+                "inmax": "2400.5",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.5780384609",
+                "rankrate": "0.6138656403",
+                "reserve": "103390.696",
+                "inmin": "300",
+                "inmax": "7771",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "30.29031649",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1218,
+                "rate": "0.5209",
+                "rankrate": "0.5385260401",
+                "reserve": "191975.427",
+                "inmin": "50",
+                "inmax": "2000000",
+                "marks": [
+                    "cardverify",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "2.99",
+                        "type": "percent"
+                    },
+                    "tofee": {
+                        "value": "1.62996",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1318,
+                "rate": "0.5275383006",
+                "rankrate": "0.5275383006",
+                "reserve": "182925.1068",
+                "inmin": "48.01",
+                "inmax": "2400.5",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

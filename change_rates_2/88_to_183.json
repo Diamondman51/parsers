@@ -1,0 +1,72 @@
+{
+    "rates": {
+        "88-183": [
+            {
+                "changer": 517,
+                "rate": "0.00006866339829",
+                "rankrate": "0.00006935696797",
+                "reserve": "1835438275",
+                "inmin": "332.9942",
+                "inmax": "50011.56",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1090,
+                "rate": "0.00006425181737",
+                "rankrate": "0.00006425181737",
+                "reserve": "345052663.5",
+                "inmin": "300",
+                "inmax": "50000",
+                "marks": [
+                    "reg"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "0.00006424167946",
+                "rankrate": "0.00006424167946",
+                "reserve": "999999999999",
+                "inmin": "300",
+                "inmax": "3000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1248,
+                "rate": "0.00006410839797",
+                "rankrate": "0.00006410839797",
+                "reserve": "999999999999",
+                "inmin": "300",
+                "inmax": "3000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1272,
+                "rate": "0.00006451063148",
+                "rankrate": "0.00006451063148",
+                "reserve": "150000000",
+                "inmin": "4",
+                "inmax": "76543650",
+                "marks": [
+                    "manual",
+                    "reg"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

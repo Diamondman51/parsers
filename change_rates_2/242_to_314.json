@@ -1,0 +1,74 @@
+{
+    "rates": {
+        "242-314": [
+            {
+                "changer": 989,
+                "rate": "1.044849103",
+                "rankrate": "1.044849103",
+                "reserve": "5020294.88",
+                "inmin": "250",
+                "inmax": "7771",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "1",
+                "rankrate": "1",
+                "reserve": "2002011.06",
+                "inmin": "200",
+                "inmax": "2002011.06",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "0.9887099214",
+                "rankrate": "0.9887099214",
+                "reserve": "100000",
+                "inmin": "1150.8",
+                "inmax": "6713",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1191,
+                "rate": "1.01010101",
+                "rankrate": "1.020304051",
+                "reserve": "10000000",
+                "inmin": "50",
+                "inmax": "50000",
+                "marks": [
+                    "manual",
+                    "reg"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1248,
+                "rate": "1.011654666",
+                "rankrate": "1.011654666",
+                "reserve": "100000",
+                "inmin": "431.55",
+                "inmax": "14385",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

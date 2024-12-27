@@ -1,0 +1,32 @@
+{
+    "rates": {
+        "157-301": [
+            {
+                "changer": 1170,
+                "rate": "0.09391440303",
+                "rankrate": "0.09391440303",
+                "reserve": "1000000",
+                "inmin": "52000",
+                "inmax": "728000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "0.09845523733",
+                "rankrate": "0.09845523733",
+                "reserve": "61494625.03",
+                "inmin": "20000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

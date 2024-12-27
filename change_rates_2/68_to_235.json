@@ -1,0 +1,37 @@
+{
+    "rates": {
+        "68-235": [
+            {
+                "changer": 989,
+                "rate": "46.51525",
+                "rankrate": "46.51525",
+                "reserve": "98485.4241",
+                "inmin": "10000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1168,
+                "rate": "48.40833672",
+                "rankrate": "48.47873998",
+                "reserve": "330.3093812",
+                "inmin": "4001",
+                "inmax": "29000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.3",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

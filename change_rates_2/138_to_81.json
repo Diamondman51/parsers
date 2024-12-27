@@ -1,0 +1,73 @@
+{
+    "rates": {
+        "138-81": [
+            {
+                "changer": 1141,
+                "rate": "2.52726033",
+                "rankrate": "2.52726033",
+                "reserve": "1922920",
+                "inmin": "974.350553",
+                "inmax": "389740.2212",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "2.52789919",
+                "rankrate": "2.52789919",
+                "reserve": "1010872.383",
+                "inmin": "1263.949595",
+                "inmax": "2555383.479",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1218,
+                "rate": "2.529084471",
+                "rankrate": "2.554630779",
+                "reserve": "100000",
+                "inmin": "75.87253",
+                "inmax": "35407.1826",
+                "marks": [
+                    "cardverify",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1248,
+                "rate": "2.528425827",
+                "rankrate": "2.528425827",
+                "reserve": "292454.6695",
+                "inmin": "6823.942289",
+                "inmax": "19496.97797",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1272,
+                "rate": "2.558199028",
+                "rankrate": "2.558199028",
+                "reserve": "20000",
+                "inmin": "240",
+                "inmax": "4000",
+                "marks": [
+                    "manual",
+                    "reg"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

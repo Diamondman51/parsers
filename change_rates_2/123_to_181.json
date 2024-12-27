@@ -1,0 +1,77 @@
+{
+    "rates": {
+        "123-181": [
+            {
+                "changer": 468,
+                "rate": "0.9350705698",
+                "rankrate": "0.9350705698",
+                "reserve": "7847.89",
+                "inmin": "41.67",
+                "inmax": "7311.91",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "1.034637555",
+                "rankrate": "1.034637555",
+                "reserve": "1097379",
+                "inmin": "400",
+                "inmax": "96819948.78",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.9749062556",
+                "rankrate": "0.9749062556",
+                "reserve": "136886.6222",
+                "inmin": "145.7151",
+                "inmax": "7771",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "0.9256413769",
+                "rankrate": "0.9256413769",
+                "reserve": "10000",
+                "inmin": "383.6",
+                "inmax": "6713",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1218,
+                "rate": "0.8957",
+                "rankrate": "0.9488059331",
+                "reserve": "111644.524",
+                "inmin": "50",
+                "inmax": "2000000",
+                "marks": [
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "5",
+                        "type": "percent"
+                    },
+                    "tofee": {
+                        "value": "2",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

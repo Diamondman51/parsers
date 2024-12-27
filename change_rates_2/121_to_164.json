@@ -1,0 +1,77 @@
+{
+    "rates": {
+        "121-164": [
+            {
+                "changer": 417,
+                "rate": "160.5018",
+                "rankrate": "162.1230303",
+                "reserve": "588774",
+                "inmin": "16050.1787",
+                "inmax": "100000000",
+                "marks": [
+                    "manual",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 517,
+                "rate": "160.4361",
+                "rankrate": "162.0566667",
+                "reserve": "43753",
+                "inmin": "15000",
+                "inmax": "99884065.97",
+                "marks": [
+                    "manual",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 622,
+                "rate": "156.4795",
+                "rankrate": "158.060101",
+                "reserve": "798209",
+                "inmin": "7823.9733",
+                "inmax": "10000000000",
+                "marks": [
+                    "manual",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1073,
+                "rate": "155.8811",
+                "rankrate": "157.4556566",
+                "reserve": "250000",
+                "inmin": "10000",
+                "inmax": "200000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

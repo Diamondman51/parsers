@@ -1,0 +1,33 @@
+{
+    "rates": {
+        "83-155": [
+            {
+                "changer": 984,
+                "rate": "4.025301314",
+                "rankrate": "4.025301314",
+                "reserve": "93367",
+                "inmin": "1",
+                "inmax": "9999999999",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "4.152216607",
+                "rankrate": "4.152216607",
+                "reserve": "1046309",
+                "inmin": "10000",
+                "inmax": "284378",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "rates": {
+        "191-24": [
+            {
+                "changer": 364,
+                "rate": "110.3080088",
+                "rankrate": "110.3080088",
+                "reserve": "1601343.12",
+                "inmin": "75000",
+                "inmax": "2500000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 417,
+                "rate": "113.8069",
+                "rankrate": "113.8069",
+                "reserve": "18226071",
+                "inmin": "6000",
+                "inmax": "10000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "110.6058",
+                "rankrate": "110.6058",
+                "reserve": "10000622",
+                "inmin": "6000",
+                "inmax": "10000000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "110.7331",
+                "rankrate": "117.1180971",
+                "reserve": "19080",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "14.77",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1132,
+                "rate": "110.9011078",
+                "rankrate": "112.5899571",
+                "reserve": "41782349.71",
+                "inmin": "60000",
+                "inmax": "250000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1181,
+                "rate": "118.0847",
+                "rankrate": "118.0847",
+                "reserve": "99797.09",
+                "inmin": "20000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1230,
+                "rate": "110.5706",
+                "rankrate": "110.5706",
+                "reserve": "3520309",
+                "inmin": "35000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1234,
+                "rate": "110.307909",
+                "rankrate": "110.307909",
+                "reserve": "3842753",
+                "inmin": "75000",
+                "inmax": "2500000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1277,
+                "rate": "104.8452759",
+                "rankrate": "104.8452759",
+                "reserve": "102474",
+                "inmin": "50000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

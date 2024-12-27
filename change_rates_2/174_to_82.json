@@ -1,0 +1,75 @@
+{
+    "rates": {
+        "174-82": [
+            {
+                "changer": 989,
+                "rate": "218.515",
+                "rankrate": "218.515",
+                "reserve": "1628.216301",
+                "inmin": "252.5",
+                "inmax": "8080",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "204.4121964",
+                "rankrate": "204.4121964",
+                "reserve": "50000",
+                "inmin": "480",
+                "inmax": "6000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "214.78481",
+                "rankrate": "214.78481",
+                "reserve": "3689.690675",
+                "inmin": "500",
+                "inmax": "792489.5106",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1248,
+                "rate": "208.9260304",
+                "rankrate": "208.9260304",
+                "reserve": "50000",
+                "inmin": "500",
+                "inmax": "20000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1340,
+                "rate": "204.412896",
+                "rankrate": "205.8152725",
+                "reserve": "91417.523",
+                "inmin": "1000",
+                "inmax": "100000",
+                "marks": [
+                    "manual",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.01",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

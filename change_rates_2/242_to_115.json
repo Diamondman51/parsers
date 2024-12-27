@@ -1,0 +1,76 @@
+{
+    "rates": {
+        "242-115": [
+            {
+                "changer": 989,
+                "rate": "0.35002692",
+                "rankrate": "0.35002692",
+                "reserve": "1053384.404",
+                "inmin": "250",
+                "inmax": "7771",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "0.3370468379",
+                "rankrate": "0.3370468379",
+                "reserve": "359699.5632",
+                "inmin": "500",
+                "inmax": "121235.6004",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "0.3336785794",
+                "rankrate": "0.3336785794",
+                "reserve": "100000",
+                "inmin": "1150.8",
+                "inmax": "6713",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1226,
+                "rate": "0.3249250213",
+                "rankrate": "0.3258072123",
+                "reserve": "2545721.27",
+                "inmin": "102",
+                "inmax": "10000",
+                "marks": [
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "2.5",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1248,
+                "rate": "0.3350865059",
+                "rankrate": "0.3350865059",
+                "reserve": "100000",
+                "inmin": "431.55",
+                "inmax": "9590",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

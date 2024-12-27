@@ -1,0 +1,75 @@
+{
+    "rates": {
+        "197-169": [
+            {
+                "changer": 517,
+                "rate": "0.0433171746",
+                "rankrate": "0.0433171746",
+                "reserve": "376528",
+                "inmin": "2.049974",
+                "inmax": "204997.3797",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 612,
+                "rate": "0.04099060126",
+                "rankrate": "0.04099060126",
+                "reserve": "9008378.997",
+                "inmin": "20.39806786",
+                "inmax": "36716.52214",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 874,
+                "rate": "0.04093532184",
+                "rankrate": "0.04110358067",
+                "reserve": "4922976.526",
+                "inmin": "2.403128071",
+                "inmax": "600782.0177",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1158,
+                "rate": "0.04071074045",
+                "rankrate": "0.04071074045",
+                "reserve": "9498929.232",
+                "inmin": "23.9475",
+                "inmax": "960",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "0.04096360728",
+                "rankrate": "0.04096360728",
+                "reserve": "680000",
+                "inmin": "204.5456848",
+                "inmax": "12272.7413",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

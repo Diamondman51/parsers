@@ -1,0 +1,76 @@
+{
+    "rates": {
+        "290-42": [
+            {
+                "changer": 989,
+                "rate": "0.008890032542",
+                "rankrate": "0.008890032542",
+                "reserve": "1126460",
+                "inmin": "250",
+                "inmax": "6444",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "0.008971949201",
+                "rankrate": "0.008971949201",
+                "reserve": "1017913.049",
+                "inmin": "500",
+                "inmax": "9132.6642",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "0.009216445253",
+                "rankrate": "0.009216445253",
+                "reserve": "2000000",
+                "inmin": "478.488",
+                "inmax": "1355.716",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "0.008986898001",
+                "rankrate": "0.008986898001",
+                "reserve": "27009267.88",
+                "inmin": "500",
+                "inmax": "242729.5355",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1191,
+                "rate": "0.008999280058",
+                "rankrate": "0.009090181876",
+                "reserve": "10000000",
+                "inmin": "50",
+                "inmax": "50000",
+                "marks": [
+                    "manual",
+                    "reg"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

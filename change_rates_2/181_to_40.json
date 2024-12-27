@@ -1,0 +1,79 @@
+{
+    "rates": {
+        "181-40": [
+            {
+                "changer": 239,
+                "rate": "1.154707744",
+                "rankrate": "1.160510295",
+                "reserve": "4500",
+                "inmin": "3000",
+                "inmax": "50000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 531,
+                "rate": "1.444842279",
+                "rankrate": "1.444842279",
+                "reserve": "1000000",
+                "inmin": "1514.746053",
+                "inmax": "15147.46053",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "1.137497644",
+                "rankrate": "1.137497644",
+                "reserve": "25963.93766",
+                "inmin": "164",
+                "inmax": "8747",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1179,
+                "rate": "1.129688206",
+                "rankrate": "1.129688206",
+                "reserve": "9275.25",
+                "inmin": "338.9064618",
+                "inmax": "5648.44103",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1272,
+                "rate": "1.132118193",
+                "rankrate": "1.137807229",
+                "reserve": "100000",
+                "inmin": "1000",
+                "inmax": "100000",
+                "marks": [
+                    "manual",
+                    "reg"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.5",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

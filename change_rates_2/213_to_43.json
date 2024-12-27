@@ -1,0 +1,138 @@
+{
+    "rates": {
+        "213-43": [
+            {
+                "changer": 330,
+                "rate": "65.5425502",
+                "rankrate": "65.5425502",
+                "reserve": "0.23258167",
+                "inmin": "0.31630756",
+                "inmax": "2.869",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 858,
+                "rate": "62.33810144",
+                "rankrate": "62.79413688",
+                "reserve": "16.97232393",
+                "inmin": "0.2148888107",
+                "inmax": "4.76559",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.0000233",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 989,
+                "rate": "63.96622583",
+                "rankrate": "64.07894526",
+                "reserve": "392.7085632",
+                "inmin": "0.0908",
+                "inmax": "4.84",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.0000055",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1033,
+                "rate": "61.42744316",
+                "rankrate": "61.42744316",
+                "reserve": "549.7575772",
+                "inmin": "4.355316639",
+                "inmax": "186.6564369",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1058,
+                "rate": "61.71835443",
+                "rankrate": "61.85387637",
+                "reserve": "60.55",
+                "inmin": "0.0285",
+                "inmax": "3710.25",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.0000071",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1121,
+                "rate": "62.29796554",
+                "rankrate": "63.63520208",
+                "reserve": "6.264805546",
+                "inmin": "0.14",
+                "inmax": "195.14232",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.0000674632",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1132,
+                "rate": "61.42744316",
+                "rankrate": "61.42744316",
+                "reserve": "217.127508",
+                "inmin": "6.22188139",
+                "inmax": "62.21881229",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "61.4458854",
+                "rankrate": "61.4458854",
+                "reserve": "367.9017416",
+                "inmin": "4.977505207",
+                "inmax": "622.1881229",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1230,
+                "rate": "61.601359",
+                "rankrate": "61.601359",
+                "reserve": "120.0567141",
+                "inmin": "4.99393",
+                "inmax": "124.848262",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

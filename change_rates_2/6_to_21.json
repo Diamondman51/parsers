@@ -1,0 +1,29 @@
+{
+    "rates": {
+        "6-21": [
+            {
+                "changer": 785,
+                "rate": "1.111111111",
+                "rankrate": "1.147196167",
+                "reserve": "168540467.8",
+                "inmin": "50000",
+                "inmax": "500000",
+                "marks": [
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "45",
+                        "type": "absolute"
+                    },
+                    "tofee": {
+                        "value": "3",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

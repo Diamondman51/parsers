@@ -1,0 +1,78 @@
+{
+    "rates": {
+        "176-126": [
+            {
+                "changer": 517,
+                "rate": "378132.8782",
+                "rankrate": "383891.2469",
+                "reserve": "72.18459",
+                "inmin": "5000",
+                "inmax": "1000000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 992,
+                "rate": "415088.2056",
+                "rankrate": "415088.2056",
+                "reserve": "319.997621",
+                "inmin": "1000",
+                "inmax": "400000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "532084.4712",
+                "rankrate": "542389.8789",
+                "reserve": "4419.021809",
+                "inmin": "16500",
+                "inmax": "100000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.9",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1301,
+                "rate": "382222.4793",
+                "rankrate": "386083.3124",
+                "reserve": "2499.977482",
+                "inmin": "5000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

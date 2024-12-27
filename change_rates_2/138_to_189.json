@@ -1,0 +1,78 @@
+{
+    "rates": {
+        "138-189": [
+            {
+                "changer": 417,
+                "rate": "2.05677341",
+                "rankrate": "2.05677341",
+                "reserve": "18737475",
+                "inmin": "390.702262",
+                "inmax": "1955762453",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 612,
+                "rate": "1.959265719",
+                "rankrate": "1.959265719",
+                "reserve": "89958.28278",
+                "inmin": "975.8576625",
+                "inmax": "17565.43793",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "2.05475301",
+                "rankrate": "2.05475301",
+                "reserve": "9985023",
+                "inmin": "587.003996",
+                "inmax": "194935583.1",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 858,
+                "rate": "1.963775342",
+                "rankrate": "1.976296751",
+                "reserve": "16535.304",
+                "inmin": "67.52529385",
+                "inmax": "29078.302",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1.9358",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1058,
+                "rate": "1.963689283",
+                "rankrate": "1.996357837",
+                "reserve": "5957204.686",
+                "inmin": "102.1118427",
+                "inmax": "11698099",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "5",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

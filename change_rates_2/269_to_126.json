@@ -1,0 +1,72 @@
+{
+    "rates": {
+        "269-126": [
+            {
+                "changer": 517,
+                "rate": "3559.855228",
+                "rankrate": "3559.855228",
+                "reserve": "72",
+                "inmin": "50.013999",
+                "inmax": "5001399.86",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 992,
+                "rate": "3609.761631",
+                "rankrate": "3609.761631",
+                "reserve": "319.997621",
+                "inmin": "360.976163",
+                "inmax": "200000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1068,
+                "rate": "3529.284001",
+                "rankrate": "3531.361197",
+                "reserve": "3",
+                "inmin": "10.58785201",
+                "inmax": "3000",
+                "marks": [],
+                "extra": {
+                    "tofee": {
+                        "value": "0.00005",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1156,
+                "rate": "3850.520996",
+                "rankrate": "3850.520996",
+                "reserve": "4419.021809",
+                "inmin": "150.5074252",
+                "inmax": "1003382.834",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "3569.708208",
+                "rankrate": "3569.708208",
+                "reserve": "2499.977482",
+                "inmin": "200.6459808",
+                "inmax": "501614.9635",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

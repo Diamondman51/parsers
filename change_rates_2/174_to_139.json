@@ -1,0 +1,80 @@
+{
+    "rates": {
+        "174-139": [
+            {
+                "changer": 989,
+                "rate": "3786.9543",
+                "rankrate": "3835.368855",
+                "reserve": "149.4010693",
+                "inmin": "252.5",
+                "inmax": "8080",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.001",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1170,
+                "rate": "3654.97076",
+                "rankrate": "3654.97076",
+                "reserve": "10000",
+                "inmin": "480",
+                "inmax": "6000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "3961.5077",
+                "rankrate": "3961.5077",
+                "reserve": "544.1696747",
+                "inmin": "500",
+                "inmax": "2155732.353",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1248,
+                "rate": "3601.890272",
+                "rankrate": "3601.890272",
+                "reserve": "10000",
+                "inmin": "500",
+                "inmax": "20000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1340,
+                "rate": "3605.281878",
+                "rankrate": "3641.883993",
+                "reserve": "45.83502",
+                "inmin": "1000",
+                "inmax": "100000",
+                "marks": [
+                    "manual",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.0008363",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

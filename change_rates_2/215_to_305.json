@@ -1,0 +1,75 @@
+{
+    "rates": {
+        "215-305": [
+            {
+                "changer": 517,
+                "rate": "0.2285076923",
+                "rankrate": "0.2285076923",
+                "reserve": "27017242.4",
+                "inmin": "15000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.2222986865",
+                "rankrate": "0.2222986865",
+                "reserve": "47850663.4",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1149,
+                "rate": "0.2202594657",
+                "rankrate": "0.2202594657",
+                "reserve": "100000000",
+                "inmin": "15000",
+                "inmax": "22025946.57",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1174,
+                "rate": "0.2413593358",
+                "rankrate": "0.2413593358",
+                "reserve": "24999989",
+                "inmin": "7000",
+                "inmax": "100000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "0.2202643172",
+                "rankrate": "0.2202643172",
+                "reserve": "373312576.4",
+                "inmin": "40000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

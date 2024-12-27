@@ -1,0 +1,73 @@
+{
+    "rates": {
+        "155-76": [
+            {
+                "changer": 778,
+                "rate": "62.31705059",
+                "rankrate": "62.31705059",
+                "reserve": "17467.12962",
+                "inmin": "544.1135",
+                "inmax": "27205.675",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 987,
+                "rate": "65.57473145",
+                "rankrate": "65.57473145",
+                "reserve": "884.410484",
+                "inmin": "353.5",
+                "inmax": "57994.98",
+                "marks": [
+                    "cardverify",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1226,
+                "rate": "63.63998668",
+                "rankrate": "63.88858307",
+                "reserve": "154322.18",
+                "inmin": "257.5",
+                "inmax": "33000",
+                "marks": [
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "2",
+                        "type": "absolute"
+                    },
+                    "tofee": {
+                        "value": "0.152",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1318,
+                "rate": "62.31705059",
+                "rankrate": "62.31705059",
+                "reserve": "17467.12962",
+                "inmin": "544.1135",
+                "inmax": "27205.675",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

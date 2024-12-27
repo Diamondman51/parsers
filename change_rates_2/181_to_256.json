@@ -1,0 +1,73 @@
+{
+    "rates": {
+        "181-256": [
+            {
+                "changer": 417,
+                "rate": "1.26366366",
+                "rankrate": "1.26366366",
+                "reserve": "50000000",
+                "inmin": "328.4943808",
+                "inmax": "109636464.1",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 612,
+                "rate": "1.151842702",
+                "rankrate": "1.151842702",
+                "reserve": "56134.8",
+                "inmin": "548.99562",
+                "inmax": "6393.416263",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "1.19715505",
+                "rankrate": "1.19715505",
+                "reserve": "964564",
+                "inmin": "329.92271",
+                "inmax": "109974236.4",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "1.21829799",
+                "rankrate": "1.21829799",
+                "reserve": "12448408",
+                "inmin": "550.7995233",
+                "inmax": "1101599.047",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1273,
+                "rate": "1.190837064",
+                "rankrate": "1.230735106",
+                "reserve": "13918.03391",
+                "inmin": "189.3147294",
+                "inmax": "15997.36717",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "8.16687488",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

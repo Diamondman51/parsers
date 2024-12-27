@@ -1,0 +1,72 @@
+{
+    "rates": {
+        "117-32": [
+            {
+                "changer": 517,
+                "rate": "0.002851818415",
+                "rankrate": "0.002851818415",
+                "reserve": "3192106790",
+                "inmin": "15000",
+                "inmax": "99884065.97",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.00254789",
+                "rankrate": "0.002640417516",
+                "reserve": "2786883453",
+                "inmin": "15168.18",
+                "inmax": "606727",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "412609.1711",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1021,
+                "rate": "0.002786633335",
+                "rankrate": "0.002786633335",
+                "reserve": "1770015711",
+                "inmin": "1000",
+                "inmax": "150000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "0.002544052489",
+                "rankrate": "0.002544052489",
+                "reserve": "999999999999",
+                "inmin": "50000",
+                "inmax": "100000",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1174,
+                "rate": "0.002757702431",
+                "rankrate": "0.002757702431",
+                "reserve": "246632025.3",
+                "inmin": "3000",
+                "inmax": "1000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

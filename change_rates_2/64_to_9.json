@@ -1,0 +1,71 @@
+{
+    "rates": {
+        "64-9": [
+            {
+                "changer": 517,
+                "rate": "0.008972142395",
+                "rankrate": "0.009108774005",
+                "reserve": "716237974",
+                "inmin": "11532.366",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 633,
+                "rate": "0.008972142395",
+                "rankrate": "0.008972142395",
+                "reserve": "1271963000",
+                "inmin": "5000",
+                "inmax": "10000000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.008651066579",
+                "rankrate": "0.008651066579",
+                "reserve": "205107410",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "0.008649336855",
+                "rankrate": "0.008649336855",
+                "reserve": "178582165.4",
+                "inmin": "21623.3421",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

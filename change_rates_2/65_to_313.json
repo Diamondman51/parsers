@@ -1,0 +1,76 @@
+{
+    "rates": {
+        "65-313": [
+            {
+                "changer": 125,
+                "rate": "1.027593587",
+                "rankrate": "1.031125513",
+                "reserve": "8828.940116",
+                "inmin": "50",
+                "inmax": "5000",
+                "marks": [
+                    "cardverify",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 612,
+                "rate": "1.016700568",
+                "rankrate": "1.016700568",
+                "reserve": "50000",
+                "inmin": "30",
+                "inmax": "5000",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "1.092657343",
+                "rankrate": "1.092657343",
+                "reserve": "5017095.502",
+                "inmin": "300",
+                "inmax": "7771",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "1.006346929",
+                "rankrate": "1.006346929",
+                "reserve": "15000",
+                "inmin": "17.262",
+                "inmax": "4795",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1216,
+                "rate": "1.03766401",
+                "rankrate": "1.03766401",
+                "reserve": "17654935.43",
+                "inmin": "100",
+                "inmax": "4000",
+                "marks": [
+                    "cardverify",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

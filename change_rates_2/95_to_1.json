@@ -1,0 +1,81 @@
+{
+    "rates": {
+        "95-1": [
+            {
+                "changer": 417,
+                "rate": "107.6977",
+                "rankrate": "107.6977",
+                "reserve": "2411709",
+                "inmin": "3000",
+                "inmax": "10000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 464,
+                "rate": "84",
+                "rankrate": "84",
+                "reserve": "11329.848",
+                "inmin": "5000",
+                "inmax": "99000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 517,
+                "rate": "108.3083",
+                "rankrate": "109.957665",
+                "reserve": "97993",
+                "inmin": "5000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 622,
+                "rate": "107.8416",
+                "rankrate": "107.8416",
+                "reserve": "1000000",
+                "inmin": "5000",
+                "inmax": "10000000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1073,
+                "rate": "128.0004",
+                "rankrate": "128.0004",
+                "reserve": "125000",
+                "inmin": "10000",
+                "inmax": "150000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

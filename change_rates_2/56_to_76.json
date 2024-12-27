@@ -1,0 +1,73 @@
+{
+    "rates": {
+        "56-76": [
+            {
+                "changer": 619,
+                "rate": "256.6044768",
+                "rankrate": "257.6092529",
+                "reserve": "96.2308",
+                "inmin": "5000",
+                "inmax": "30000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.152",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 686,
+                "rate": "258.9574988",
+                "rankrate": "258.9574988",
+                "reserve": "160287.6525",
+                "inmin": "18903.9",
+                "inmax": "500000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "251.926594",
+                "rankrate": "251.926594",
+                "reserve": "7913.546846",
+                "inmin": "10000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "256.4439229",
+                "rankrate": "256.4439229",
+                "reserve": "15000",
+                "inmin": "17600",
+                "inmax": "264000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1223,
+                "rate": "264.0249325",
+                "rankrate": "264.0249325",
+                "reserve": "91155.7126",
+                "inmin": "5000",
+                "inmax": "100000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "rates": {
+        "10-109": [
+            {
+                "changer": 125,
+                "rate": "1",
+                "rankrate": "1",
+                "reserve": "635.16",
+                "inmin": "20",
+                "inmax": "635.16",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 201,
+                "rate": "1",
+                "rankrate": "1",
+                "reserve": "8519.78",
+                "inmin": "600",
+                "inmax": "10000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 227,
+                "rate": "0.999999",
+                "rankrate": "0.999999",
+                "reserve": "1351.79",
+                "inmin": "300",
+                "inmax": "5000",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 273,
+                "rate": "1.03",
+                "rankrate": "1.035175879",
+                "reserve": "72.2721",
+                "inmin": "5",
+                "inmax": "74.440263",
+                "marks": [],
+                "extra": {
+                    "tofee": {
+                        "value": "0.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 455,
+                "rate": "1",
+                "rankrate": "1",
+                "reserve": "20835.86",
+                "inmin": "600",
+                "inmax": "10000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1072,
+                "rate": "1",
+                "rankrate": "1",
+                "reserve": "18884.01",
+                "inmin": "600",
+                "inmax": "10000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

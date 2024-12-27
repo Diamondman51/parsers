@@ -1,0 +1,81 @@
+{
+    "rates": {
+        "88-72": [
+            {
+                "changer": 417,
+                "rate": "1.1765",
+                "rankrate": "1.188383838",
+                "reserve": "10000000",
+                "inmin": "235.298",
+                "inmax": "10830833",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 622,
+                "rate": "1.1765",
+                "rankrate": "1.188383838",
+                "reserve": "500000",
+                "inmin": "235.2941",
+                "inmax": "100027959.3",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 668,
+                "rate": "1.078167116",
+                "rankrate": "1.078167116",
+                "reserve": "18765",
+                "inmin": "86.2534",
+                "inmax": "5390.8356",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "1.13",
+                "rankrate": "1.13",
+                "reserve": "50095.36",
+                "inmin": "252.5",
+                "inmax": "6060",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1293,
+                "rate": "1.052631579",
+                "rankrate": "1.071428571",
+                "reserve": "10005",
+                "inmin": "105.2632",
+                "inmax": "10526.3158",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "5",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

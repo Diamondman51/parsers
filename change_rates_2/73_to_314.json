@@ -1,0 +1,139 @@
+{
+    "rates": {
+        "73-314": [
+            {
+                "changer": 517,
+                "rate": "0.00001078445029",
+                "rankrate": "0.00001078445029",
+                "reserve": "376528",
+                "inmin": "0.000511",
+                "inmax": "51.061801",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 612,
+                "rate": "0.00001027053946",
+                "rankrate": "0.00001027053946",
+                "reserve": "1337651.523",
+                "inmin": "0.00510199",
+                "inmax": "1.36365046",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "0.00001071578947",
+                "rankrate": "0.00001071578947",
+                "reserve": "82614240",
+                "inmin": "0.001486",
+                "inmax": "1020",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1033,
+                "rate": "0.00001021423267",
+                "rankrate": "0.00001021423267",
+                "reserve": "4871201.623",
+                "inmin": "0.2559447885",
+                "inmax": "15.35668669",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1058,
+                "rate": "0.00001020751948",
+                "rankrate": "0.00001021099378",
+                "reserve": "5982844.326",
+                "inmin": "0.0008",
+                "inmax": "61.07",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.1",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1156,
+                "rate": "0.0000106581074",
+                "rankrate": "0.0000106581074",
+                "reserve": "12227169.52",
+                "inmin": "0.0051189",
+                "inmax": "10.23779113",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1192,
+                "rate": "0.00001024315002",
+                "rankrate": "0.00001024315002",
+                "reserve": "7392382.232",
+                "inmin": "0.005",
+                "inmax": "5",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 1230,
+                "rate": "0.00001028274218",
+                "rankrate": "0.00001028274218",
+                "reserve": "8085195.091",
+                "inmin": "0.194857",
+                "inmax": "4.871428",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1248,
+                "rate": "0.00001073313311",
+                "rankrate": "0.00001073313311",
+                "reserve": "100000",
+                "inmin": "0.0001015354",
+                "inmax": "0.2030708784",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1273,
+                "rate": "0.00001048198546",
+                "rankrate": "0.00001391020082",
+                "reserve": "14847.23362",
+                "inmin": "0.0147874367",
+                "inmax": "0.14961319",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "0.00073936",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "rates": {
+        "118-140": [
+            {
+                "changer": 521,
+                "rate": "2136.359434",
+                "rankrate": "2136.359434",
+                "reserve": "1000",
+                "inmin": "7000",
+                "inmax": "150000",
+                "marks": [
+                    "reg"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 619,
+                "rate": "2170.005957",
+                "rankrate": "2186.469902",
+                "reserve": "102.8157",
+                "inmin": "5000",
+                "inmax": "30000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.0347",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 949,
+                "rate": "2136.359534",
+                "rankrate": "2136.359534",
+                "reserve": "800",
+                "inmin": "7000",
+                "inmax": "150000",
+                "marks": [
+                    "reg"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "2144.41344",
+                "rankrate": "2144.41344",
+                "reserve": "1020.591546",
+                "inmin": "10000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1014,
+                "rate": "2120.638981",
+                "rankrate": "2136.359634",
+                "reserve": "99352.72",
+                "inmin": "5020",
+                "inmax": "10000000000",
+                "marks": [
+                    "floating",
+                    "reg"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.0347",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1036,
+                "rate": "2192.764933",
+                "rankrate": "2192.764933",
+                "reserve": "7720.904528",
+                "inmin": "1862.47",
+                "inmax": "36800",
+                "marks": [
+                    "cardverify",
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1141,
+                "rate": "2141.877604",
+                "rankrate": "2141.877604",
+                "reserve": "61462.815",
+                "inmin": "50000",
+                "inmax": "9120000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1168,
+                "rate": "2229.356754",
+                "rankrate": "2229.356754",
+                "reserve": "5219.176441",
+                "inmin": "4001",
+                "inmax": "29000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1223,
+                "rate": "2232.238842",
+                "rankrate": "2232.238842",
+                "reserve": "3480.726249",
+                "inmin": "5000",
+                "inmax": "100000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1340,
+                "rate": "2124.838671",
+                "rankrate": "2124.838671",
+                "reserve": "83553.19",
+                "inmin": "5000",
+                "inmax": "5000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

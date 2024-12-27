@@ -1,0 +1,75 @@
+{
+    "rates": {
+        "44-209": [
+            {
+                "changer": 417,
+                "rate": "7.0035",
+                "rankrate": "7.0035",
+                "reserve": "1680506",
+                "inmin": "400",
+                "inmax": "10000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "7.0024",
+                "rankrate": "7.0024",
+                "reserve": "3361801",
+                "inmin": "400",
+                "inmax": "100031036.2",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "6.843333333",
+                "rankrate": "6.843333333",
+                "reserve": "10075.93148",
+                "inmin": "250",
+                "inmax": "8080",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "6.256224944",
+                "rankrate": "6.256224944",
+                "reserve": "15000",
+                "inmin": "500",
+                "inmax": "4000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1218,
+                "rate": "6.1326",
+                "rankrate": "6.45647986",
+                "reserve": "16306.297",
+                "inmin": "50",
+                "inmax": "200000",
+                "marks": [
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "5",
+                        "type": "percent"
+                    },
+                    "tofee": {
+                        "value": "0.008",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

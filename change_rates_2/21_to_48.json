@@ -1,0 +1,76 @@
+{
+    "rates": {
+        "21-48": [
+            {
+                "changer": 364,
+                "rate": "38.57439096",
+                "rankrate": "38.57439096",
+                "reserve": "5703678.523",
+                "inmin": "30000",
+                "inmax": "2500000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1211,
+                "rate": "38.64819005",
+                "rankrate": "39.61792542",
+                "reserve": "4231287.93",
+                "inmin": "50000",
+                "inmax": "150000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "19",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1230,
+                "rate": "43.8979",
+                "rankrate": "43.8979",
+                "reserve": "2394277.607",
+                "inmin": "15000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1234,
+                "rate": "39.1052483",
+                "rankrate": "39.1052483",
+                "reserve": "5675321",
+                "inmin": "40000",
+                "inmax": "2500000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1277,
+                "rate": "38.33886601",
+                "rankrate": "38.33886601",
+                "reserve": "95610.45",
+                "inmin": "50000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

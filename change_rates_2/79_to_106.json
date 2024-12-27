@@ -1,0 +1,141 @@
+{
+    "rates": {
+        "79-106": [
+            {
+                "changer": 364,
+                "rate": "376251.0347",
+                "rankrate": "376251.0347",
+                "reserve": "502.689421",
+                "inmin": "30000",
+                "inmax": "2500000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 517,
+                "rate": "378132.8782",
+                "rankrate": "383891.2469",
+                "reserve": "72",
+                "inmin": "5000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 989,
+                "rate": "380864.2202",
+                "rankrate": "380864.2202",
+                "reserve": "99.13855932",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 992,
+                "rate": "415735.6235",
+                "rankrate": "415735.6235",
+                "reserve": "780.003952",
+                "inmin": "1000",
+                "inmax": "400000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1006,
+                "rate": "478483.7127",
+                "rankrate": "478483.7127",
+                "reserve": "50.950153",
+                "inmin": "1000",
+                "inmax": "150000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "533126.5865",
+                "rankrate": "541245.2655",
+                "reserve": "4419.194391",
+                "inmin": "16500",
+                "inmax": "100000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1171,
+                "rate": "480395.1891",
+                "rankrate": "480395.1891",
+                "reserve": "564.971319",
+                "inmin": "4500",
+                "inmax": "130000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1261,
+                "rate": "415436.4471",
+                "rankrate": "415436.4471",
+                "reserve": "10",
+                "inmin": "4154.364471",
+                "inmax": "300000",
+                "marks": [
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "382720.7182",
+                "rankrate": "386586.5841",
+                "reserve": "2500.911755",
+                "inmin": "5000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

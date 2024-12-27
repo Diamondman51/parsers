@@ -1,0 +1,77 @@
+{
+    "rates": {
+        "88-30": [
+            {
+                "changer": 790,
+                "rate": "0.1630685057",
+                "rankrate": "0.1647156624",
+                "reserve": "10590000",
+                "inmin": "244.602759",
+                "inmax": "50000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 984,
+                "rate": "0.1731618609",
+                "rankrate": "0.1731618609",
+                "reserve": "4367",
+                "inmin": "90",
+                "inmax": "10000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.1593256827",
+                "rankrate": "0.1593256827",
+                "reserve": "54393",
+                "inmin": "202",
+                "inmax": "6060",
+                "marks": [
+                    "manual",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1073,
+                "rate": "0.1606864525",
+                "rankrate": "0.162309548",
+                "reserve": "8745000",
+                "inmin": "80",
+                "inmax": "3000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1090,
+                "rate": "0.1426431781",
+                "rankrate": "0.1426431781",
+                "reserve": "65730.84",
+                "inmin": "550",
+                "inmax": "10000",
+                "marks": [
+                    "reg"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

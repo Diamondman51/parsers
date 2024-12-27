@@ -1,0 +1,70 @@
+{
+    "rates": {
+        "136-93": [
+            {
+                "changer": 668,
+                "rate": "103098.1335",
+                "rankrate": "103098.1335",
+                "reserve": "10.55",
+                "inmin": "350",
+                "inmax": "5000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "108928.5292",
+                "rankrate": "110942.6661",
+                "reserve": "26.71245919",
+                "inmin": "190.0255279",
+                "inmax": "5729",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.00005",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1010,
+                "rate": "104317",
+                "rankrate": "104317",
+                "reserve": "7.603",
+                "inmin": "110",
+                "inmax": "10000",
+                "marks": [
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1218,
+                "rate": "97746.897",
+                "rankrate": "103103.6402",
+                "reserve": "1.535",
+                "inmin": "50",
+                "inmax": "2000000",
+                "marks": [
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "5",
+                        "type": "percent"
+                    },
+                    "tofee": {
+                        "value": "0.000006",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

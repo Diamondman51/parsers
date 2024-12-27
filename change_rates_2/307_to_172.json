@@ -1,0 +1,83 @@
+{
+    "rates": {
+        "307-172": [
+            {
+                "changer": 652,
+                "rate": "510.74129",
+                "rankrate": "510.74129",
+                "reserve": "41.127395",
+                "inmin": "50",
+                "inmax": "5000",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 899,
+                "rate": "542.7529",
+                "rankrate": "542.7529",
+                "reserve": "81.42809731",
+                "inmin": "50",
+                "inmax": "3300",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "516.88",
+                "rankrate": "516.88",
+                "reserve": "518.3351588",
+                "inmin": "151.5",
+                "inmax": "8080",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "510.597912",
+                "rankrate": "510.597912",
+                "reserve": "804.3999879",
+                "inmin": "100.335143",
+                "inmax": "1003.35143",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1202,
+                "rate": "512.709",
+                "rankrate": "513.5867351",
+                "reserve": "10.001",
+                "inmin": "50",
+                "inmax": "1000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.001",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1230,
+                "rate": "514.5035",
+                "rankrate": "514.5035",
+                "reserve": "11035.54718",
+                "inmin": "54.036529",
+                "inmax": "540.365287",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

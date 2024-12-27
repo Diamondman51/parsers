@@ -1,0 +1,75 @@
+{
+    "rates": {
+        "199-235": [
+            {
+                "changer": 466,
+                "rate": "14358.56644",
+                "rankrate": "14358.56644",
+                "reserve": "58223.48",
+                "inmin": "3870000",
+                "inmax": "51558035",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 695,
+                "rate": "16430.06",
+                "rankrate": "16430.06",
+                "reserve": "50972.63944",
+                "inmin": "750000",
+                "inmax": "300000000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 984,
+                "rate": "16322.98487",
+                "rankrate": "16322.98487",
+                "reserve": "23412",
+                "inmin": "1",
+                "inmax": "9999999999",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "13935.04874",
+                "rankrate": "13935.04874",
+                "reserve": "98485.4241",
+                "inmin": "3254622.293",
+                "inmax": "104147913",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1139,
+                "rate": "15879.054",
+                "rankrate": "16200.61709",
+                "reserve": "512881",
+                "inmin": "1400000",
+                "inmax": "100000000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "5",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

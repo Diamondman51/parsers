@@ -1,0 +1,81 @@
+{
+    "rates": {
+        "237-139": [
+            {
+                "changer": 695,
+                "rate": "7518.05703",
+                "rankrate": "7518.05703",
+                "reserve": "8.103617",
+                "inmin": "95",
+                "inmax": "150000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 827,
+                "rate": "6739.049045",
+                "rankrate": "6739.049045",
+                "reserve": "560.713449",
+                "inmin": "90",
+                "inmax": "8600",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 939,
+                "rate": "6683.976452",
+                "rankrate": "6683.976452",
+                "reserve": "108.1646199",
+                "inmin": "260",
+                "inmax": "8500",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 987,
+                "rate": "6747.429382",
+                "rankrate": "6747.429382",
+                "reserve": "1.334523",
+                "inmin": "57.09",
+                "inmax": "9004.6",
+                "marks": [
+                    "cardverify",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "6647.168306",
+                "rankrate": "6736.728645",
+                "reserve": "149.4010693",
+                "inmin": "428.6521",
+                "inmax": "13717",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.001",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

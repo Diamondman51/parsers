@@ -1,0 +1,76 @@
+{
+    "rates": {
+        "174-185": [
+            {
+                "changer": 989,
+                "rate": "0.28336",
+                "rankrate": "0.28336",
+                "reserve": "698068.2602",
+                "inmin": "250",
+                "inmax": "8080",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "0.2788233654",
+                "rankrate": "0.2788233654",
+                "reserve": "480804.1269",
+                "inmin": "500",
+                "inmax": "134059.4248",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "0.2682840978",
+                "rankrate": "0.2682840978",
+                "reserve": "90000",
+                "inmin": "480",
+                "inmax": "6000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1248,
+                "rate": "0.2728312859",
+                "rankrate": "0.2728312859",
+                "reserve": "150000",
+                "inmin": "500",
+                "inmax": "10000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1340,
+                "rate": "0.2647877981",
+                "rankrate": "0.2650217132",
+                "reserve": "7864334.139",
+                "inmin": "1000",
+                "inmax": "100000",
+                "marks": [
+                    "manual",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

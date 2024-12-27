@@ -1,0 +1,73 @@
+{
+    "rates": {
+        "56-178": [
+            {
+                "changer": 619,
+                "rate": "39.88665731",
+                "rankrate": "40.13156656",
+                "reserve": "1150",
+                "inmin": "5000",
+                "inmax": "30000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1.53",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 686,
+                "rate": "40.65634126",
+                "rankrate": "40.65634126",
+                "reserve": "1232738.417",
+                "inmin": "32647.05",
+                "inmax": "500000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "39.20770423",
+                "rankrate": "39.20770423",
+                "reserve": "43696.19936",
+                "inmin": "10000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1170,
+                "rate": "39.21384092",
+                "rankrate": "39.21384092",
+                "reserve": "10000",
+                "inmin": "17600",
+                "inmax": "88000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1223,
+                "rate": "41.04354451",
+                "rankrate": "41.04354451",
+                "reserve": "99271.28",
+                "inmin": "5000",
+                "inmax": "100000",
+                "marks": [
+                    "floating"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

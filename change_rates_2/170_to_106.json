@@ -1,0 +1,136 @@
+{
+    "rates": {
+        "170-106": [
+            {
+                "changer": 364,
+                "rate": "376251.0347",
+                "rankrate": "376251.0347",
+                "reserve": "502.689421",
+                "inmin": "30000",
+                "inmax": "2500000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "380680.8417",
+                "rankrate": "380680.8417",
+                "reserve": "99.13855932",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 992,
+                "rate": "415436.4471",
+                "rankrate": "415436.4471",
+                "reserve": "780.003952",
+                "inmin": "1000",
+                "inmax": "400000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1006,
+                "rate": "478613.2748",
+                "rankrate": "478613.2748",
+                "reserve": "50.950153",
+                "inmin": "1000",
+                "inmax": "150000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "532863.75",
+                "rankrate": "540978.4264",
+                "reserve": "4419.194391",
+                "inmin": "16500",
+                "inmax": "100000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1171,
+                "rate": "480266.4822",
+                "rankrate": "480266.4822",
+                "reserve": "564.971319",
+                "inmin": "4500",
+                "inmax": "130000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1211,
+                "rate": "376251.4075",
+                "rankrate": "376251.4075",
+                "reserve": "396.2740764",
+                "inmin": "25000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1261,
+                "rate": "415548.9374",
+                "rankrate": "415548.9374",
+                "reserve": "10",
+                "inmin": "4155.489374",
+                "inmax": "300000",
+                "marks": [
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "382644.5442",
+                "rankrate": "386509.6406",
+                "reserve": "2500.911755",
+                "inmin": "5000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

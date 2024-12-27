@@ -1,0 +1,75 @@
+{
+    "rates": {
+        "47-202": [
+            {
+                "changer": 517,
+                "rate": "14.60879285",
+                "rankrate": "14.60879285",
+                "reserve": "19326",
+                "inmin": "100.027997",
+                "inmax": "5001399.86",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 612,
+                "rate": "13.93061489",
+                "rankrate": "13.93061489",
+                "reserve": "331606.775",
+                "inmin": "500.03205",
+                "inmax": "459084.7984",
+                "marks": [
+                    "floating",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "14.468025",
+                "rankrate": "15.36093165",
+                "reserve": "4468.970995",
+                "inmin": "300",
+                "inmax": "8160",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1.20531484",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1156,
+                "rate": "14.8765346",
+                "rankrate": "14.8765346",
+                "reserve": "20211.13219",
+                "inmin": "8026.696289",
+                "inmax": "1003337.057",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "14.94803265",
+                "rankrate": "14.94803265",
+                "reserve": "2904.983526",
+                "inmin": "200.6766898",
+                "inmax": "301015.0347",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

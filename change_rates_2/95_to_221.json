@@ -1,0 +1,71 @@
+{
+    "rates": {
+        "95-221": [
+            {
+                "changer": 517,
+                "rate": "94.853",
+                "rankrate": "96.29746193",
+                "reserve": "77866",
+                "inmin": "41168.105",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 622,
+                "rate": "85.0768",
+                "rankrate": "85.0768",
+                "reserve": "1434463",
+                "inmin": "25523.0339",
+                "inmax": "10000000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "81.85154052",
+                "rankrate": "81.85154052",
+                "reserve": "457498",
+                "inmin": "50560.6",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "81.8271",
+                "rankrate": "81.8271",
+                "reserve": "41695.6527",
+                "inmin": "20456.775",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

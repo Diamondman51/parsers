@@ -1,0 +1,140 @@
+{
+    "rates": {
+        "34-130": [
+            {
+                "changer": 517,
+                "rate": "1046.8785",
+                "rankrate": "1062.820812",
+                "reserve": "7095",
+                "inmin": "5000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 633,
+                "rate": "1089.3548",
+                "rankrate": "1089.3548",
+                "reserve": "211165",
+                "inmin": "5000",
+                "inmax": "10000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "1059.440419",
+                "rankrate": "1059.440419",
+                "reserve": "108017",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 992,
+                "rate": "1151.231059",
+                "rankrate": "1151.231059",
+                "reserve": "100000",
+                "inmin": "1000",
+                "inmax": "400000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1071,
+                "rate": "1029.38",
+                "rankrate": "1029.38",
+                "reserve": "666",
+                "inmin": "50000",
+                "inmax": "685567.08",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1149,
+                "rate": "1029.38",
+                "rankrate": "1029.38",
+                "reserve": "10000",
+                "inmin": "15000",
+                "inmax": "10293800",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "1129.328829",
+                "rankrate": "1129.328829",
+                "reserve": "45064.01093",
+                "inmin": "16500",
+                "inmax": "50000",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "1032.4421",
+                "rankrate": "1032.4421",
+                "reserve": "38818.923",
+                "inmin": "20000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "1071.979135",
+                "rankrate": "1082.807207",
+                "reserve": "147715.5187",
+                "inmin": "5000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "rates": {
+        "186-32": [
+            {
+                "changer": 517,
+                "rate": "0.00001272786087",
+                "rankrate": "0.00001272786087",
+                "reserve": "3192106790",
+                "inmin": "52.819973",
+                "inmax": "52819.97287",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.00001261491528",
+                "rankrate": "0.00001295199282",
+                "reserve": "2786883453",
+                "inmin": "78",
+                "inmax": "4180",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "412609.1711",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1050,
+                "rate": "0.00001267917692",
+                "rankrate": "0.00001267917692",
+                "reserve": "11487677013",
+                "inmin": "100",
+                "inmax": "100000",
+                "marks": [
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "0.00001215460943",
+                "rankrate": "0.00001215460943",
+                "reserve": "999999999999",
+                "inmin": "4216.946777",
+                "inmax": "527118.3302",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "0.00001213564357",
+                "rankrate": "0.00001213564357",
+                "reserve": "521609426119",
+                "inmin": "1580.144287",
+                "inmax": "210685.9058",
+                "marks": [
+                    "floating",
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

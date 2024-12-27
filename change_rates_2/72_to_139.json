@@ -1,0 +1,70 @@
+{
+    "rates": {
+        "72-139": [
+            {
+                "changer": 668,
+                "rate": "3735.3691",
+                "rankrate": "3735.3691",
+                "reserve": "55.91",
+                "inmin": "350",
+                "inmax": "5000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "3943.477273",
+                "rankrate": "3996.004448",
+                "reserve": "149.4010693",
+                "inmin": "200.99",
+                "inmax": "6060",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.001",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1010,
+                "rate": "3910.265076",
+                "rankrate": "3910.265076",
+                "reserve": "46.6",
+                "inmin": "110",
+                "inmax": "10000",
+                "marks": [
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1218,
+                "rate": "3569.5062",
+                "rankrate": "3764.210998",
+                "reserve": "42.023",
+                "inmin": "50",
+                "inmax": "200000",
+                "marks": [
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "5",
+                        "type": "percent"
+                    },
+                    "tofee": {
+                        "value": "0.000145",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

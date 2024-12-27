@@ -1,0 +1,139 @@
+{
+    "rates": {
+        "121-305": [
+            {
+                "changer": 184,
+                "rate": "0.2121835812",
+                "rankrate": "0.2121835812",
+                "reserve": "110000000",
+                "inmin": "30000",
+                "inmax": "1000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 517,
+                "rate": "0.2444151146",
+                "rankrate": "0.2468839542",
+                "reserve": "27017242",
+                "inmin": "15000",
+                "inmax": "5000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 622,
+                "rate": "0.2019671601",
+                "rankrate": "0.2040072325",
+                "reserve": "10302300000",
+                "inmin": "5049.1419",
+                "inmax": "10000000000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 899,
+                "rate": "0.2131287298",
+                "rankrate": "0.2131287298",
+                "reserve": "35000000",
+                "inmin": "5000",
+                "inmax": "300000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 902,
+                "rate": "0.2259",
+                "rankrate": "0.2259",
+                "reserve": "10000000",
+                "inmin": "1500",
+                "inmax": "300000",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 939,
+                "rate": "0.2131287",
+                "rankrate": "0.2152815152",
+                "reserve": "4899947.91",
+                "inmin": "2131.29",
+                "inmax": "106564.35",
+                "marks": [
+                    "manual",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 984,
+                "rate": "0.2413911392",
+                "rankrate": "0.2413911392",
+                "reserve": "813811.2511",
+                "inmin": "1000",
+                "inmax": "200000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "0.2172086357",
+                "rankrate": "0.2172086357",
+                "reserve": "47850663.4",
+                "inmin": "15168.18",
+                "inmax": "606727",
+                "marks": [
+                    "manual",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1174,
+                "rate": "0.2119407414",
+                "rankrate": "0.2119407414",
+                "reserve": "24999989",
+                "inmin": "1",
+                "inmax": "1.5",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1229,
+                "rate": "0.2413911392",
+                "rankrate": "0.2413911392",
+                "reserve": "47570.28391",
+                "inmin": "500",
+                "inmax": "200000",
+                "marks": [],
+                "extra": []
+            }
+        ]
+    }
+}

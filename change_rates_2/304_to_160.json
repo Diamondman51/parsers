@@ -1,0 +1,29 @@
+{
+    "rates": {
+        "304-160": [
+            {
+                "changer": 1226,
+                "rate": "116.2212174",
+                "rankrate": "116.6864037",
+                "reserve": "30890.89",
+                "inmin": "98.83",
+                "inmax": "4000",
+                "marks": [
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "0.5",
+                        "type": "absolute"
+                    },
+                    "tofee": {
+                        "value": "0.03",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

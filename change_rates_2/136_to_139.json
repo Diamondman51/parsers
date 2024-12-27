@@ -1,0 +1,70 @@
+{
+    "rates": {
+        "136-139": [
+            {
+                "changer": 668,
+                "rate": "3626.7784",
+                "rankrate": "3626.7784",
+                "reserve": "55.91",
+                "inmin": "350",
+                "inmax": "5000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "3879.613543",
+                "rankrate": "3930.442199",
+                "reserve": "149.4010693",
+                "inmin": "190.0255279",
+                "inmax": "5729",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.001",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1010,
+                "rate": "3680.249483",
+                "rankrate": "3680.249483",
+                "reserve": "46.6",
+                "inmin": "110",
+                "inmax": "10000",
+                "marks": [
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1218,
+                "rate": "3437.9031",
+                "rankrate": "3625.23002",
+                "reserve": "43.631",
+                "inmin": "50",
+                "inmax": "2000000",
+                "marks": [
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "5",
+                        "type": "percent"
+                    },
+                    "tofee": {
+                        "value": "0.000146",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

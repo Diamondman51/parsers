@@ -1,0 +1,935 @@
+{
+    "rates": {
+        "95-99": [
+            {
+                "changer": 364,
+                "rate": "11442.51168",
+                "rankrate": "11442.51168",
+                "reserve": "22435.07549",
+                "inmin": "30000",
+                "inmax": "2500000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 387,
+                "rate": "12119.69",
+                "rankrate": "12119.69",
+                "reserve": "257.12878",
+                "inmin": "10000",
+                "inmax": "113089",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 397,
+                "rate": "12037.72178",
+                "rankrate": "12037.72178",
+                "reserve": "27833.1849",
+                "inmin": "15000",
+                "inmax": "200000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 417,
+                "rate": "12137.7334",
+                "rankrate": "12137.7334",
+                "reserve": "118273",
+                "inmin": "5000",
+                "inmax": "10000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 444,
+                "rate": "11435.53",
+                "rankrate": "11435.53",
+                "reserve": "200",
+                "inmin": "40000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 488,
+                "rate": "11986.04392",
+                "rankrate": "11986.04392",
+                "reserve": "26217.79708",
+                "inmin": "15000",
+                "inmax": "150000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 517,
+                "rate": "11844.052",
+                "rankrate": "12024.41827",
+                "reserve": "478",
+                "inmin": "5000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 544,
+                "rate": "11879.2584",
+                "rankrate": "11879.2584",
+                "reserve": "7298",
+                "inmin": "8000",
+                "inmax": "150000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 567,
+                "rate": "11949.88",
+                "rankrate": "11949.88",
+                "reserve": "7.45507015",
+                "inmin": "5000",
+                "inmax": "89087.25",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 622,
+                "rate": "12063.647",
+                "rankrate": "12063.647",
+                "reserve": "458872",
+                "inmin": "5000",
+                "inmax": "10000000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 625,
+                "rate": "11540.0341",
+                "rankrate": "11540.0341",
+                "reserve": "10553.34189",
+                "inmin": "30000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 633,
+                "rate": "12494.4823",
+                "rankrate": "12494.4823",
+                "reserve": "24518",
+                "inmin": "5000",
+                "inmax": "10000000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 763,
+                "rate": "12866.0301",
+                "rankrate": "12866.0301",
+                "reserve": "120.0736658",
+                "inmin": "2500",
+                "inmax": "25000",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 764,
+                "rate": "12041.4836",
+                "rankrate": "12163.11475",
+                "reserve": "61915",
+                "inmin": "30000",
+                "inmax": "500000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 772,
+                "rate": "12230.73429",
+                "rankrate": "12230.73429",
+                "reserve": "754074.3992",
+                "inmin": "30000",
+                "inmax": "900000",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 785,
+                "rate": "11431.85018",
+                "rankrate": "11431.85018",
+                "reserve": "28553.87935",
+                "inmin": "50000",
+                "inmax": "3500000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 797,
+                "rate": "11512.61",
+                "rankrate": "11512.61",
+                "reserve": "19225.82197",
+                "inmin": "61014",
+                "inmax": "600000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 827,
+                "rate": "11431.85018",
+                "rankrate": "11431.85018",
+                "reserve": "8292.067248",
+                "inmin": "50000",
+                "inmax": "1500000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 852,
+                "rate": "11439.75033",
+                "rankrate": "11439.75033",
+                "reserve": "50000",
+                "inmin": "40000",
+                "inmax": "571987516.3",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 855,
+                "rate": "14917.56613",
+                "rankrate": "14917.56613",
+                "reserve": "38465.09081",
+                "inmin": "1000",
+                "inmax": "300000",
+                "marks": [
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 888,
+                "rate": "11665.05883",
+                "rankrate": "11665.05883",
+                "reserve": "17370.63449",
+                "inmin": "48811.2",
+                "inmax": "600000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 896,
+                "rate": "12107.58",
+                "rankrate": "12107.58",
+                "reserve": "174.84757",
+                "inmin": "10000",
+                "inmax": "113089",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 930,
+                "rate": "11450.18939",
+                "rankrate": "11450.18939",
+                "reserve": "8827.385504",
+                "inmin": "50000",
+                "inmax": "5000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 933,
+                "rate": "13109.2333",
+                "rankrate": "13109.2333",
+                "reserve": "119.6736658",
+                "inmin": "2500",
+                "inmax": "25000",
+                "marks": [
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 939,
+                "rate": "11450.90426",
+                "rankrate": "11450.90426",
+                "reserve": "16829.25114",
+                "inmin": "30000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 942,
+                "rate": "11952.43",
+                "rankrate": "11952.43",
+                "reserve": "68.29079",
+                "inmin": "10000",
+                "inmax": "113089",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 948,
+                "rate": "12254.2804",
+                "rankrate": "12254.2804",
+                "reserve": "9669",
+                "inmin": "5000",
+                "inmax": "999999999999",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 954,
+                "rate": "11417.14422",
+                "rankrate": "11417.14422",
+                "reserve": "6315",
+                "inmin": "100000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 955,
+                "rate": "11680.12296",
+                "rankrate": "11680.12296",
+                "reserve": "13221.66035",
+                "inmin": "10000",
+                "inmax": "1000001",
+                "marks": [
+                    "cardverify",
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 963,
+                "rate": "11458.87203",
+                "rankrate": "11458.87203",
+                "reserve": "27139.12042",
+                "inmin": "50000",
+                "inmax": "600000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 974,
+                "rate": "13099",
+                "rankrate": "13099",
+                "reserve": "623.77",
+                "inmin": "3000",
+                "inmax": "300000",
+                "marks": [],
+                "extra": []
+            },
+            {
+                "changer": 976,
+                "rate": "11665.05883",
+                "rankrate": "11665.05883",
+                "reserve": "17270.29901",
+                "inmin": "50845",
+                "inmax": "600000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 985,
+                "rate": "12845.73507",
+                "rankrate": "12845.73507",
+                "reserve": "3382.839114",
+                "inmin": "10000",
+                "inmax": "150000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "12040.94271",
+                "rankrate": "12040.94271",
+                "reserve": "1630.883181",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 992,
+                "rate": "14031.18736",
+                "rankrate": "14031.18736",
+                "reserve": "113883.0444",
+                "inmin": "1000",
+                "inmax": "400000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1006,
+                "rate": "15025.06396",
+                "rankrate": "15025.06396",
+                "reserve": "102936.449",
+                "inmin": "1000",
+                "inmax": "150000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1008,
+                "rate": "12239.898",
+                "rankrate": "12239.898",
+                "reserve": "76997.0589",
+                "inmin": "99999",
+                "inmax": "1000000",
+                "marks": [
+                    "manual",
+                    "verifying"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1021,
+                "rate": "13873.3365",
+                "rankrate": "13873.3365",
+                "reserve": "103312.8942",
+                "inmin": "2500",
+                "inmax": "150000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1037,
+                "rate": "13319.45",
+                "rankrate": "13319.45",
+                "reserve": "483.677",
+                "inmin": "30000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1061,
+                "rate": "11457.37983",
+                "rankrate": "11457.37983",
+                "reserve": "19268.33905",
+                "inmin": "55929.5",
+                "inmax": "600000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1065,
+                "rate": "11865.11564",
+                "rankrate": "11865.11564",
+                "reserve": "885.5560816",
+                "inmin": "15000",
+                "inmax": "250000",
+                "marks": [
+                    "cardverify",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1071,
+                "rate": "11455.49",
+                "rankrate": "11455.49",
+                "reserve": "200",
+                "inmin": "50000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1074,
+                "rate": "12041.4836",
+                "rankrate": "12041.4836",
+                "reserve": "9429",
+                "inmin": "10000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1100,
+                "rate": "12119.69",
+                "rankrate": "12119.69",
+                "reserve": "19114.68813",
+                "inmin": "51861.9",
+                "inmax": "2000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1115,
+                "rate": "11867.16328",
+                "rankrate": "11867.16328",
+                "reserve": "50",
+                "inmin": "5000",
+                "inmax": "300000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1120,
+                "rate": "11942.88",
+                "rankrate": "11942.88",
+                "reserve": "58.04717",
+                "inmin": "10000",
+                "inmax": "113089",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1131,
+                "rate": "11938.1",
+                "rankrate": "11938.1",
+                "reserve": "47.80355",
+                "inmin": "10000",
+                "inmax": "113089",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1137,
+                "rate": "11626.298",
+                "rankrate": "11626.298",
+                "reserve": "19036.24369",
+                "inmin": "50845",
+                "inmax": "221321046.1",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1144,
+                "rate": "11682.1884",
+                "rankrate": "11682.1884",
+                "reserve": "23357.48318",
+                "inmin": "50000",
+                "inmax": "3000000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1145,
+                "rate": "11519.08554",
+                "rankrate": "11519.08554",
+                "reserve": "130.22",
+                "inmin": "50000",
+                "inmax": "1500000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1149,
+                "rate": "11551.50172",
+                "rankrate": "11551.50172",
+                "reserve": "100000",
+                "inmin": "30000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1156,
+                "rate": "12806.29825",
+                "rankrate": "13054.33053",
+                "reserve": "3491.299023",
+                "inmin": "5000",
+                "inmax": "50000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.9",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1165,
+                "rate": "14798.2256",
+                "rankrate": "14798.2256",
+                "reserve": "6430.75421",
+                "inmin": "1000",
+                "inmax": "140000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1171,
+                "rate": "15097.46231",
+                "rankrate": "15097.46231",
+                "reserve": "22367.1945",
+                "inmin": "1000",
+                "inmax": "130000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1174,
+                "rate": "13602.6125",
+                "rankrate": "13602.6125",
+                "reserve": "1131.95484",
+                "inmin": "7000",
+                "inmax": "100000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "11703.5467",
+                "rankrate": "11703.5467",
+                "reserve": "74559.08214",
+                "inmin": "50000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1211,
+                "rate": "11680.12296",
+                "rankrate": "11680.12296",
+                "reserve": "13221.66035",
+                "inmin": "25000",
+                "inmax": "1000001",
+                "marks": [
+                    "cardverify",
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1230,
+                "rate": "11886.5281",
+                "rankrate": "11886.5281",
+                "reserve": "20570.70756",
+                "inmin": "15000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1234,
+                "rate": "11626.29822",
+                "rankrate": "11626.29822",
+                "reserve": "51967",
+                "inmin": "40000",
+                "inmax": "2500000",
+                "marks": [
+                    "cardverify"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1237,
+                "rate": "12314.17461",
+                "rankrate": "12314.17461",
+                "reserve": "9422.022498",
+                "inmin": "10000",
+                "inmax": "300000",
+                "marks": [
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1261,
+                "rate": "13702.06074",
+                "rankrate": "13702.06074",
+                "reserve": "1001.22436",
+                "inmin": "1000",
+                "inmax": "300000",
+                "marks": [
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1268,
+                "rate": "12116.66667",
+                "rankrate": "12116.66667",
+                "reserve": "10550.87688",
+                "inmin": "10000",
+                "inmax": "150000",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1277,
+                "rate": "11451.23657",
+                "rankrate": "11451.23657",
+                "reserve": "20996.23409",
+                "inmin": "50000",
+                "inmax": "300000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1282,
+                "rate": "11459.7",
+                "rankrate": "11459.7",
+                "reserve": "12420",
+                "inmin": "57298.5126",
+                "inmax": "1500000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1301,
+                "rate": "12092.46745",
+                "rankrate": "12214.61358",
+                "reserve": "8333.880044",
+                "inmin": "15000",
+                "inmax": "500000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin",
+                    "verifying"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 1316,
+                "rate": "13148.9689",
+                "rankrate": "13148.9689",
+                "reserve": "470",
+                "inmin": "2000",
+                "inmax": "500000",
+                "marks": [
+                    "floating",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1346,
+                "rate": "12121.8109",
+                "rankrate": "12121.8109",
+                "reserve": "52289.16594",
+                "inmin": "5000",
+                "inmax": "80000",
+                "marks": [
+                    "cardverify",
+                    "floating"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1361,
+                "rate": "12997.1345",
+                "rankrate": "13025.34987",
+                "reserve": "1590.936331",
+                "inmin": "3000",
+                "inmax": "350000",
+                "marks": [],
+                "extra": {
+                    "tofee": {
+                        "value": "0.005",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}

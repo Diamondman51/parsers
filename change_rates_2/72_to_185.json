@@ -1,0 +1,32 @@
+{
+    "rates": {
+        "72-185": [
+            {
+                "changer": 989,
+                "rate": "0.2955172414",
+                "rankrate": "0.2955172414",
+                "reserve": "698068.2602",
+                "inmin": "151.5",
+                "inmax": "6060",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1010,
+                "rate": "0.288742",
+                "rankrate": "0.288742",
+                "reserve": "1287320.32",
+                "inmin": "110",
+                "inmax": "10000",
+                "marks": [
+                    "floating",
+                    "reg",
+                    "verifying"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

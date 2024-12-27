@@ -1,0 +1,71 @@
+{
+    "rates": {
+        "64-54": [
+            {
+                "changer": 517,
+                "rate": "38.2967",
+                "rankrate": "38.87989848",
+                "reserve": "369811",
+                "inmin": "37536.079",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": {
+                    "fromfee": {
+                        "value": "1.5",
+                        "type": "percent"
+                    }
+                }
+            },
+            {
+                "changer": 633,
+                "rate": "38.1181",
+                "rankrate": "38.1181",
+                "reserve": "327025",
+                "inmin": "25000",
+                "inmax": "498372.28",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 989,
+                "rate": "37.00393251",
+                "rankrate": "37.00393251",
+                "reserve": "826056.92",
+                "inmin": "30000",
+                "inmax": "606727.2",
+                "marks": [
+                    "cardverify",
+                    "manual",
+                    "otherin",
+                    "otherout"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1035,
+                "rate": "36.9965",
+                "rankrate": "36.9965",
+                "reserve": "467459.917",
+                "inmin": "20000",
+                "inmax": "1000000",
+                "marks": [
+                    "cardverify",
+                    "floating",
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            }
+        ]
+    }
+}

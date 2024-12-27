@@ -1,0 +1,73 @@
+{
+    "rates": {
+        "217-101": [
+            {
+                "changer": 417,
+                "rate": "0.03635649727",
+                "rankrate": "0.03635649727",
+                "reserve": "5000000",
+                "inmin": "14.54262324",
+                "inmax": "2479.711473",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 790,
+                "rate": "0.03723865262",
+                "rankrate": "0.03723865262",
+                "reserve": "590000",
+                "inmin": "16.757394",
+                "inmax": "4760.179726",
+                "marks": [
+                    "floating",
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1073,
+                "rate": "0.03605604552",
+                "rankrate": "0.03605604552",
+                "reserve": "250000",
+                "inmin": "1.5",
+                "inmax": "1000",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1181,
+                "rate": "0.03608440865",
+                "rankrate": "0.03608440865",
+                "reserve": "207683.8742",
+                "inmin": "18.04220432",
+                "inmax": "7494.149786",
+                "marks": [
+                    "manual"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1218,
+                "rate": "0.03168377062",
+                "rankrate": "0.03200380871",
+                "reserve": "100000",
+                "inmin": "0.95051",
+                "inmax": "443.57279",
+                "marks": [
+                    "cardverify",
+                    "verifying"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "percent"
+                    }
+                }
+            }
+        ]
+    }
+}

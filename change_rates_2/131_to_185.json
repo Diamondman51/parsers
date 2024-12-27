@@ -1,0 +1,70 @@
+{
+    "rates": {
+        "131-185": [
+            {
+                "changer": 858,
+                "rate": "0.000002622110553",
+                "rankrate": "0.000002623658445",
+                "reserve": "10132913.43",
+                "inmin": "0.0000309997",
+                "inmax": "1.2914565",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "0.675",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1101,
+                "rate": "0.000002720025586",
+                "rankrate": "0.000002722494004",
+                "reserve": "1000000",
+                "inmin": "0.000272",
+                "inmax": "0.01",
+                "marks": [
+                    "manual"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "1",
+                        "type": "absolute"
+                    }
+                }
+            },
+            {
+                "changer": 1268,
+                "rate": "0.000002894853188",
+                "rankrate": "0.000002894853188",
+                "reserve": "1636619.298",
+                "inmin": "0.0003686742",
+                "inmax": "0.4608428724",
+                "marks": [
+                    "manual",
+                    "otherin"
+                ],
+                "extra": []
+            },
+            {
+                "changer": 1273,
+                "rate": "0.000002712244904",
+                "rankrate": "0.00000271968282",
+                "reserve": "56557.05134",
+                "inmin": "0.0001575661",
+                "inmax": "0.1499842",
+                "marks": [
+                    "floating"
+                ],
+                "extra": {
+                    "tofee": {
+                        "value": "3.025",
+                        "type": "absolute"
+                    }
+                }
+            }
+        ]
+    }
+}
